@@ -1,0 +1,16 @@
+{
+    "social": [
+        {
+            "network" : "linkedin",
+            "href": "https://linkedin.com/in/bharatkgupta"
+        },
+        {
+            "network" : "github",
+            "href": "https://github.com/Bharatkgupta"
+        },
+        {
+            "network" : "email",
+            "href": "mailto:bharatgupta18001@gmail.com"
+        }
+    ]
+}

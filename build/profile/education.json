@@ -1,0 +1,16 @@
+{
+    "education":[
+        {
+            "title": "Aug 2019 - April 2023",
+            "cardTitle": "B.Tech, Electrical Engineering",
+            "cardSubtitle":"Indian Institute of Technology Indore",
+            "cardDetailedText": "CGPA - 9.5"
+        },
+        {
+            "title": "July 2017 - March 2019",
+            "cardTitle": "Higher Secondary School",
+            "cardSubtitle":"Shri Devi Ahilya Shishu Vihar",
+            "cardDetailedText": "Marks - 95%"
+        }
+    ]
+}

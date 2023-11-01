@@ -1,0 +1,17 @@
+{
+    "experiences": [
+        {
+            "title": "Software Development Engineer",
+            "subtitle": "Amazon",
+            "workType": "Internship",
+            "workDescription": [
+                "Developed automated testing pipeline for Front-end of an internal website using Cypress, thereby ensuring bug-free deployments and significantly reducing development and debugging process of the website.",
+                "Identified and resolved high priority issues related to few RESTAPIs, mitigating blockage in production.",
+                "Participated in 1-day Intern Hackathon as lead of 3-member team and developed a new feature to improve existing automated testing methods.",
+                "Collaborated with multiple teams for solution feedback and code review.",
+                "Learned java, cypress, and mockito."
+            ],
+            "dateText": "05/2022 – 07/2022"
+        }
+    ]
+}

@@ -1,0 +1,2 @@
+(this["webpackJsonpnginx-react-app-on-minikube"]=this["webpackJsonpnginx-react-app-on-minikube"]||[]).push([[8],{87:function(n,e,i){"use strict";i.r(e);i(0),i(89);var t=i(1);e.default=function(n){var e=n.title;return Object(t.jsx)("div",{className:"header",children:e})}}}]);
+//# sourceMappingURL=8.94d9a3e9.chunk.js.map
